@@ -36,10 +36,10 @@ En aquest repositori veureu com es pot fer la instalaccio de **Moodle**
    **B)** Genera deu alumnes que ho seran dels dos cursos A i B . Fes servir un arxiu CSV per realitzar aquesta creació en bloc.
 
 **Paso 1**
- <img src="SPaso1" alt="Comvocatoria">
+ <img src="SPaso1.png" alt="Comvocatoria">
 
 **Paso 2**   
- <img src="SPaso2" alt="Comvocatoria">
+ <img src="SPaso2.png" alt="Comvocatoria">
 
    **C)** Elimina dos dels deu alumnes creats a l'apartat anterior fent servir l'opció `Administració del lloc > Usuaris > Accions amb usuaris en bloc`
  

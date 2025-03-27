@@ -43,7 +43,7 @@ En aquest repositori veureu com es pot fer la instalaccio de **Moodle**
 
    **C)** Elimina dos dels deu alumnes creats a l'apartat anterior fent servir l'opció `Administració del lloc > Usuaris > Accions amb usuaris en bloc`
  
- <img src="comvocatoria.jpg" alt="Comvocatoria">
+ <img src="B1.jpg" alt="Comvocatoria">
 
 **5.** Ara matricula aquests usuaris als diferents cursos.
 

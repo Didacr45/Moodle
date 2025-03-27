@@ -44,13 +44,13 @@ En aquest repositori veureu com es pot fer la instalaccio de **Moodle**
 **5.** Ara matricula aquests usuaris als diferents cursos.
 
 **Paso 1**
- <img src="comvocatoria.jpg" alt="Paso1.png">
+<img src="Cosasparahacer.png" alt="Paso1.png">
 
 **Paso 2**
- <img src="comvocatoria.jpg" alt="Paso2.png">
+<img src="Cosasparahacer.png" alt="Paso2.png">
 
 **Paso 3**
- <img src="comvocatoria.jpg" alt="Paso3.png">
+<img src="Cosasparahacer.png" alt="Paso3.png">
  
 
    **A)** Fes que al curs A no hi hagi possibilitat. 

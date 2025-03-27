@@ -35,8 +35,12 @@ En aquest repositori veureu com es pot fer la instalaccio de **Moodle**
    
    **B)** Genera deu alumnes que ho seran dels dos cursos A i B . Fes servir un arxiu CSV per realitzar aquesta creació en bloc.
 
-  <img src="comvocatoria.jpg" alt="Comvocatoria">
-   
+**Paso 1**
+ <img src="SPaso1" alt="Comvocatoria">
+
+**Paso 2**   
+ <img src="SPaso2" alt="Comvocatoria">
+
    **C)** Elimina dos dels deu alumnes creats a l'apartat anterior fent servir l'opció `Administració del lloc > Usuaris > Accions amb usuaris en bloc`
  
  <img src="comvocatoria.jpg" alt="Comvocatoria">
@@ -52,14 +56,14 @@ En aquest repositori veureu com es pot fer la instalaccio de **Moodle**
 **Paso 3**
 <img src="Paso3.png" alt="Paso3.png">
  
-
+**Configuracio cursos**
    **A)** Fes que al curs A no hi hagi possibilitat. 
    
    **B)** D'altra banda, fes que al curs B es necessiti registre manual d'usuaris 
 
    **C)** Assigna com a professor del curs B l'usuari "Bob" i com a alumnes a tots els que fas afegir des de l'arxiu CSV.
 
-   **D)** Comprova que efectivament, el contingut del curs A.
+   **D)** Comprova el contingut del curs A.
 
 **6.** Canvia l'aparença estètica del teu lloc.
 

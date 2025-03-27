@@ -68,11 +68,19 @@ En aquest repositori veureu com es pot fer la instalaccio de **Moodle**
 
    **C)** Assigna com a professor del curs B l'usuari "Bob" i com a alumnes a tots els que fas afegir des de l'arxiu CSV.
 
+   <img src="PPaso1.png" alt="Paso3.png">
+
    **D)** Comprova el contingut del curs A.
+
+   <img src="CAPaso1.png" alt="Paso3.png">
 
 **6.** Canvia l'aparença estètica del teu lloc.
 
+<img src="APPaso1.png" alt="Paso3.png">
+
 **7.** Assigna un professor i matricula alumnes al curs A.
+
+<img src="PRPaso1.png" alt="Paso3.png">
 
 **8.** Amb el professor afegeix contingut al curs A. Afegeix diferents tipus d’activitats i recursos. Crea una tasca amb data d’entrega oberta que demani la càrrega d’un fitxer PDF.
 

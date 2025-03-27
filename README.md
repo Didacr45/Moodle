@@ -57,7 +57,12 @@ En aquest repositori veureu com es pot fer la instalaccio de **Moodle**
 <img src="Paso3.png" alt="Paso3.png">
  
 **Configuracio cursos**
-   **A)** Fes que al curs A no hi hagi possibilitat. 
+  
+   **A)** Fes que al curs B no hi hagi possibilitat d'inscripccio. 
+  **Paso 1**
+
+  **Paso 2**
+    <img src="CPaso2.png" alt="Paso3.png">
    
    **B)** D'altra banda, fes que al curs B es necessiti registre manual d'usuaris 
 

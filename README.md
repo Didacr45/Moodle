@@ -18,6 +18,8 @@ En aquest repositori veureu com es pot fer la instalaccio de **Moodle**
    
    **B)** Canvia la política de contrasenyes de manera que els usuaris que es creiïn tinguin una contrasenya de com a mínim 4 caràcters incloent-hi, majúscules, minúscules i xifres. 
 
+<img src="Contraseña.png" alt="Comvocatoria">
+
 **2.** Crea els següents cursos: un curs anomenat A que estigui format per 3 temes i un altre anomenat B que estigui format per 5 temes.
 
   **Curs A** 
@@ -67,12 +69,11 @@ El curs **A** s'haura de crea de la mateixa manera que el **B**
 **Configuracio cursos**
   
    **A)** Fes que al curs B no hi hagi possibilitat d'inscripccio. 
-  **Paso 1**
-
-  **Paso 2**
+  
+  **Resultado final**
     <img src="CPaso2.png" alt="Paso3.png">
    
-   **B)** D'altra banda, fes que al curs B es necessiti registre manual d'usuaris 
+   **B)** D'altra banda, fes que al curs A es necessiti registre manual d'usuaris 
 
    **C)** Assigna com a professor del curs B l'usuari "Bob" i com a alumnes a tots els que fas afegir des de l'arxiu CSV.
 
@@ -90,26 +91,41 @@ El curs **A** s'haura de crea de la mateixa manera que el **B**
 
 <img src="PRPaso1.png" alt="Paso3.png">
 
-**8.** Amb el professor afegeix contingut al curs A. Afegeix diferents tipus d’activitats i recursos. Crea una tasca amb data d’entrega oberta que demani la càrrega d’un fitxer PDF.
-
-**9.** Entra amb un alumne i comprova que pots lliurar la tasca.
-
-
 ### Continguts
 
 En el curs A crea una UF amb 2 NF dintre. En aquesta UF crea diverses activitats.
 
-### Qualificació
-En el curs A fes que un alumne completi totes les tasques evaluables. Calificales amb el professor i configura el calificador per a que doni una nota de la UF automàticament a `Administració del Curs > Configuració de qualificacions`.
+ <img src="NF.png" alt="Comvocatoria">
 
+### Qualificació
 Crea una insignia i atorga-la a aquest alumnel.
 
+ <img src="Insignia1.png" alt="Comvocatoria">
+
+ <img src="Insignia2.png" alt="Comvocatoria">
+
+ <img src="Insignia3.png" alt="Comvocatoria">
+
+ <img src="Insignia4.png" alt="Comvocatoria">
+
+  
 ## Qüestionaris
 Crea un qüestionari i afegeix preguntes del banc de preguntes. Crea diferents categories dintre del banc de preguntes i diverses preguntes en cada categoria. 
 
+Per crea el Qüestionari el que hi haura que fer es el mateix pas que al'hora de crea una Tasca pero le dones a Qüestionari
+
 A l'hora de crear el qüestionari has de seleccionar les preguntes del banc de preguntes. Respon les preguntes del qüestionari amb un usuari estudiant i mira les qualificacions amb l'usuari professor.
+
+<img src="BPregutas1.png" alt="Comvocatoria">
+
+<img src="BPregutas2.png" alt="Comvocatoria">
+
+<img src="BPregutas3.png" alt="Comvocatoria">
+
 
 ## Seguretat
 Baneja una IP i aplica una política de seguretat. Pots posar la que vulguis però l’hauràs de justificar.
 
+Hi haura que aplica els passos que es mostren a la dreta de la imatge
+ <img src="IP.png" alt="Comvocatoria">
 

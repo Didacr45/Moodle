@@ -22,17 +22,25 @@ En aquest repositori veureu com es pot fer la instalaccio de **Moodle**
 
   **Curs A** 
 
+El curs **A** s'haura de crea de la mateixa manera que el **B**
+
   **Curs B**
+ <img src="CB.png" alt="Comvocatoria">
 
 **3.** Vés a algun dels cursos creats al punt anterior i fes que contingui en algun del seus temes algun tipus de material (un document PDF, per exemple), canvia el títol d'algun tema.
 
+ <img src="PDF.png" alt="Comvocatoria">
 
 **4.** Creació d’usuaris i alumnes. 
    
    **A)** Crea manualment un usuari anomenat `Bob` que ha de fer servir el **mètode d'autenticació manual**. 
 
- <img src="comvocatoria.jpg" alt="Comvocatoria">
-   
+ <img src="Bob1.png" alt="Comvocatoria">
+
+ <img src="Bob2.png" alt="Comvocatoria">
+
+ <img src="Bob3.png" alt="Comvocatoria">
+ 
    **B)** Genera deu alumnes que ho seran dels dos cursos A i B . Fes servir un arxiu CSV per realitzar aquesta creació en bloc.
 
 **Paso 1**
